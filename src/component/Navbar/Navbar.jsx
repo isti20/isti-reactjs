@@ -9,7 +9,7 @@ function Navbar() {
             </div>
             <div className="n-right">
                 <div className="n-list">
-                    <ul>
+                    <ul style={{listStyleType: 'none'}}>
                         <li>Home</li>
                         <li>Services</li>
                         <li>Experience</li>
