@@ -4,7 +4,7 @@ function Navbar() {
     return(
         <div className="n-container">
             <div className="n-left">
-                <div className="n-name"></div>
+                <div className="n-name">Isti</div>
                 <span>Toggle</span>
             </div>
             <div className="n-right">
