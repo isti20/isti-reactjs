@@ -1,0 +1,7 @@
+.n-container {
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  top: 0;
+}
