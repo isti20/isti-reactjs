@@ -1,4 +1,4 @@
-.Bio {
+.bio {
     display: flex;
     height: 77vh;
     margin-top: 6rem;
@@ -56,4 +56,3 @@
 .b-icons > *:hover {
     cursor: pointer;
 }
-
