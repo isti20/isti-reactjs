@@ -1,3 +1,5 @@
+import './Bio.css';
+
 function Bio() {
     return(
         <div className="bio">

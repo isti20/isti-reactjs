@@ -1,0 +1,45 @@
+.Bio {
+    display: flex;
+    height: 77vh;
+    margin-top: 6rem;
+}
+
+/* left side styling */
+.b-left {
+    display: flex;
+    position: relative;
+    flex: 1;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.b-name {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.b-name > :nth-child(1) {
+    color: var(--black);
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.b-name > :nth-child(2) {
+  color: var(--orange);
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.b-name > :nth-child(3) {
+  font-weight: 100;
+  font-size: 14px;
+  color: var(--gray);
+  margin-top: 10px;
+}
+
+.b-button {
+  width: 6rem;
+  height: 2rem;
+}
+
