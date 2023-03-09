@@ -17,7 +17,7 @@ function Bio() {
                         in web designing and development
                     </span>
                 </div>
-                <button className="b-button">Hire me</button>
+                <button className="button b-button">Hire me</button>
                 <div className="b-icons">
                     <img src={Github} alt="" />
                     <img src={Linkedin} alt="" />
