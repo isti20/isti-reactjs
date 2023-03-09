@@ -1,4 +1,7 @@
 import './Bio.css';
+import Github from '../../img/github.png';
+import Linkedin from '../../img/linkedin.png';
+import Instagram from '../../img/instagram.png';
 
 function Bio() {
     return(
@@ -12,6 +15,11 @@ function Bio() {
                     </span>
                 </div>
                 <button className="b-button">Hire me</button>
+                <div className="b-icons">
+                    <img src={Github} alt="" />
+                    <img src={Linkedin} alt="" />
+                    <img src={Instagram} alt="" />
+                </div>
             </div>
             <div className="b-right"></div>
         </div>
